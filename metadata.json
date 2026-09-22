@@ -1,0 +1,6 @@
+{
+  "name": "ShopVanguard E-Commerce",
+  "description": "Production-grade e-commerce application with SQL database, JWT auth, Razorpay & Stripe payments, time-limited membership plans, Google Maps address management, and admin dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
